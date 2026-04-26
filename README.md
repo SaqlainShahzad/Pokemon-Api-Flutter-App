@@ -21,7 +21,8 @@ The project demonstrates API integration, state handling, and UI design and usag
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+![Home Screen](screenshots/pokemon_home_screen.png)
+![Detail Screen](screenshots/pokemon_detail_screen.png)
 
 
 
