@@ -1,16 +1,34 @@
-# pokemon_api
+# 🐱‍👤 Pokémon Api Flutter App
 
-A new Flutter project.
+## 📌 Overview
 
-## Getting Started
+This is a Flutter-based mobile application that fetches data from a Pokémon API and displays a list of Pokémon along with detailed information for each item.
 
-This project is a starting point for a Flutter application.
+The project demonstrates API integration, state handling, and UI design and usage of hero animation in Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Fetch Pokémon data from REST API
+* Display list of Pokémon
+* Detail screen with Pokémon information
+* Clean and responsive UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+* Flutter (Dart)
+* REST API
+* HTTP package
+
+## 📸 Screenshots
+
+(Add your screenshots here)
+
+
+
+## 🎯 Purpose
+
+This project was built to practice API integration and navigation between screens in Flutter.
+
+## 👨‍💻 Author
+
+Saqlain
