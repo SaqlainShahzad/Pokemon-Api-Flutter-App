@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 class HomeScreen extends StatelessWidget {
   HomeScreen({super.key});
 
-  List<String> items = ['Flutter', 'Dart', 'React', 'Vue', 'Angular'];
+  List<String> items = ['Flutter', 'Dart', 'React', 'Vu', 'Angular'];
 
   @override
   Widget build(BuildContext context) {
