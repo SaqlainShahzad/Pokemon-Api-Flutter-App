@@ -7,6 +7,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    concurrency: 
+      group: build
+      cancel-in-progress: true
 
     steps:
       - name: checkout
